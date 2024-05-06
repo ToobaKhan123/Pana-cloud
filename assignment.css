@@ -1,0 +1,86 @@
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+.togger {
+    background-color: #333;
+    overflow: hidden;
+}
+.btn {
+    background-color: rgb(56, 214, 56);
+    border: 1px;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.togger a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .downnav {
+    overflow: hidden;
+    background-color: #f8f0f0;
+  }
+  
+  .downnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-display: inline;
+  }
+  .topsocial {
+    background-image:url(images.html/green-background-ivfksvptao7sdhrg.jpg);
+    height: 40vh;
+    text-align: center;
+    padding: 80px;
+    text-shadow: #f8f0f0;
+}
+.advantages {
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(238, 205, 165);
+}
+.about {
+    padding: 0;
+    text-align: center;
+}
+.services {
+    padding: 0;
+    text-align: center;
+} 
+.portfolio {
+    padding: 0;
+    text-align: center;
+    color: #f2f2f2;
+    background-color: #333;
+
+}   
+
